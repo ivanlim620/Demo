@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Vivant</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="txt_click_to_view">Click here to view</string>
+    <string name="frag_map_pieces_of_art">Pieces of Art</string>
+    <string name="frag_map_piece_of_art">Piece of Art</string>
+    <string name="action_help">Help</string>
+    <string name="txt_coming_soon">Coming Soon!</string>
+    <string name="txt_failed_to_save">Failed to save!</string>
+
+</resources>
